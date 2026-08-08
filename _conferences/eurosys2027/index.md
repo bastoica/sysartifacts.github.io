@@ -12,7 +12,7 @@ Artifact evaluation is _single blind_: authors do not know evaluators' identity,
 
 **Call for evaluators**: Apply [here](./aec-call) to join the artifact evaluation committee!
 
-**Artifact registration and submission**: TBA
+**Artifact registration and submission**: [Here](https://eurosys27-ae-spring.hotcrp.com/) (Spring deadline)
 
 
 ## Process
