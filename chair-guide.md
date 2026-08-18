@@ -179,7 +179,8 @@ if their artifact is not publicly available, or a private code repository with c
 **Important**: Review all HotCRP settings, and in particular ensure that
 (1) authors can see reviews,
 (2) authors can exchange comments with reviewers,
-and (3) authors can view reviews as soon as they are posted.
+(3) authors can view reviews as soon as they are posted,
+and (4) under "Review", all "Can... see..." are set to "Yes"
 
 
 # At most a week before artifact submission
